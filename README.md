@@ -3,7 +3,7 @@
 </p>
 
 # Screenshots of my Flutter Apps
-### Link to my Flutter Apps
+### Link for my Flutter Apps
 <ul>
   <li><a href="https://github.com/NewCyberGypsy/Flutter-Mi-Card">Mi Card</a></li>
   <li><a href="https://github.com/NewCyberGypsy/Flutter-Two-Dice">Two Dice</a></li>
